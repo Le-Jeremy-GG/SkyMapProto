@@ -1,0 +1,6 @@
+From: https://naif.jpl.nasa.gov/naif/rules.html
+
+Spice version N66
+
+Commercial Use of SPICE
+Use of SPICE components in commercial products is allowed, subject to the substantial restrictions on user support noted under "Getting Help from NAIF" above. No fees or licensing are required. Acknowledgement of the use of NASA's SPICE system is encouraged.

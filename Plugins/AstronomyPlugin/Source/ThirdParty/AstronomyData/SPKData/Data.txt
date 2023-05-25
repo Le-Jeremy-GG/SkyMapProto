@@ -1,0 +1,4 @@
+Additional BSP Ephemeris files available for download at ftp://ssd.jpl.nasa.gov/pub/eph/planets/bsp/
+The file included with the plugin covers 1850-2150
+
+Updated TLS (Leap Second time kernal) files available for download at https://naif.jpl.nasa.gov/pub/naif/generic_kernels/lsk/
